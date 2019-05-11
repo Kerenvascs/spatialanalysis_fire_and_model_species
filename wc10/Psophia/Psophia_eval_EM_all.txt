@@ -1,0 +1,6 @@
+$Psophia_EMcaByTSS_mergedAlgo_mergedRun_mergedData
+      Testing.data Cutoff Sensitivity Specificity
+KAPPA        0.645    495      92.727      92.869
+TSS          0.856    495      92.727      92.869
+ROC          0.928    500      92.727      92.869
+

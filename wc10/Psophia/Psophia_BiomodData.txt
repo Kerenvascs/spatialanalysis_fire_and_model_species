@@ -1,0 +1,29 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 'BIOMOD.formated.data.PA' -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+sp.name =  Psophia
+
+	 220 presences,  0 true absences and  2440 undifined points in dataset
+
+
+	 9 explanatory variables
+
+      bio6            bio1           bio18             bio2            bio3           bio15             bio4     
+ Min.   :-89.0   Min.   : 15.0   Min.   :   1.0   Min.   : 52.0   Min.   :50.00   Min.   :  9.00   Min.   : 144  
+ 1st Qu.:174.0   1st Qu.:251.0   1st Qu.: 238.0   1st Qu.: 92.0   1st Qu.:74.00   1st Qu.: 39.00   1st Qu.: 400  
+ Median :198.0   Median :259.0   Median : 364.0   Median :100.0   Median :80.00   Median : 53.00   Median : 504  
+ Mean   :186.5   Mean   :251.3   Mean   : 402.6   Mean   :103.7   Mean   :78.98   Mean   : 52.94   Mean   : 550  
+ 3rd Qu.:212.0   3rd Qu.:266.0   3rd Qu.: 545.0   3rd Qu.:112.0   3rd Qu.:84.00   3rd Qu.: 68.00   3rd Qu.: 641  
+ Max.   :235.0   Max.   :287.0   Max.   :1759.0   Max.   :155.0   Max.   :93.00   Max.   :193.00   Max.   :2674  
+     bio19            bio12     
+ Min.   :   0.0   Min.   :   3  
+ 1st Qu.: 183.0   1st Qu.:1802  
+ Median : 572.5   Median :2210  
+ Mean   : 567.0   Mean   :2189  
+ 3rd Qu.: 880.0   3rd Qu.:2568  
+ Max.   :2249.0   Max.   :8069  
+
+
+ 1 Pseudo Absences dataset available ( PA1 ) with  2440 absences in each (true abs + pseudo abs)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

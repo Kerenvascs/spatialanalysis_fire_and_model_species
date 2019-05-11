@@ -1,0 +1,16 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= BIOMOD.models.out -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Modeling id : Psophia
+
+Species modeled : Psophia
+
+Considered variables : bio6 bio1 bio18 bio2 bio3 bio15 bio4 bio19 bio12
+
+
+Computed Models :  Psophia_PA1_RUN1_GLM Psophia_PA1_RUN1_RF Psophia_PA1_RUN2_GLM Psophia_PA1_RUN2_RF
+
+
+Failed Models :  none
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

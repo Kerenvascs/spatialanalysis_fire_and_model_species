@@ -1,0 +1,11 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 'BIOMOD.EnsembleModeling.out' -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+sp.name : Psophia
+
+expl.var.names : bio6 bio1 bio18 bio2 bio3 bio15 bio4 bio19 bio12
+
+
+models computed: Psophia_EMmeanByTSS_RF_mergedRun_mergedData
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
